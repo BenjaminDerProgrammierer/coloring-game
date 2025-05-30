@@ -1,0 +1,7 @@
+#app svg path, rect, circle {
+  fill: white;
+}
+
+#app {
+  background-color: rgba(123, 176, 185, 0.842);
+}
